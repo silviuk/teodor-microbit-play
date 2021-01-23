@@ -1,5 +1,5 @@
 {
-    "name": "Loader",
+    "name": "Buldozer care cara obiecte mici de la 30 cm distanta",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -19,5 +19,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }

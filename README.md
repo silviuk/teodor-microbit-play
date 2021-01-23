@@ -1,3 +1,5 @@
+## To test, place a small object 30 cm in front of the robot and 2-5 cm against a wall.
+
 
 > Open this page at [https://silviuk.github.io/teodor-microbit-play/](https://silviuk.github.io/teodor-microbit-play/)
 
